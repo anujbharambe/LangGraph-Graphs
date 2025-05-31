@@ -64,5 +64,5 @@ LangGraph
 OpenAI or relevant LLM APIs (if required by specific agents)
 
 💡 Inspiration
-Inspired by the LangGraph tutorial: YouTube Tutorial
+Inspired by the LangGraph tutorial: https://www.youtube.com/watch?v=jGg_1h0qzaM&t=10351s
 
